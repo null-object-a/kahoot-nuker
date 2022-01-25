@@ -1,0 +1,27 @@
+{
+  "name": "kahoot-nuker",
+  "version": "1.0.0",
+  "description": "Tool to bot spam kahoots using kahooteer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/null-object-a/kahoot-nuker.git"
+  },
+  "keywords": [
+    "kahoot"
+  ],
+  "author": "unauthorized",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/null-object-a/kahoot-nuker/issues"
+  },
+  "homepage": "https://github.com/null-object-a/kahoot-nuker#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "kahooteer": "^1.1.6",
+    "minimist": "^1.2.5"
+  }
+}
